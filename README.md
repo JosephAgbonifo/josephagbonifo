@@ -18,9 +18,9 @@ Hey! I'm a passionate **frontend web developer** and an **industrial chemistry s
 - 🔥 **Open Source Contributor**  
 
 ## 📌 Projects I'm Working On
-- **[Peakify](#)** – An educational platform for resource sharing and gamified learning 🏔️📚  
-- **[SYNTAX](#)** – A fun way to learn programming with interactive tutorials 🖥️🎮  
-- **[De Emmaculate College Website](#)** – Revamping an academic website for better accessibility 🎓💡  
+- **[Peakify](https://github.com/JosephAgbonifo/Peakify)** – An educational platform for resource sharing and gamified learning 🏔️📚  
+- **[SYNTAX](https://github.com/JosephAgbonifo/Syntax-promotional-page)** – A fun way to learn programming with interactive tutorials 🖥️🎮  
+- **[De Emmaculate College Website](https://github.com/JosephAgbonifo/De-Emmaculate-College)** – Revamping an academic website for better accessibility 🎓💡  
 
 ## 🌱 Currently Learning
 - Advanced TypeScript ⚡  
