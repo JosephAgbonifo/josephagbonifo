@@ -33,8 +33,8 @@ Hey! I'm a passionate **frontend web developer** and an **industrial chemistry s
 
 ## 📫 Connect with Me
 - 🌍 **Website**: [Coming soon!]  
-- 💼 **LinkedIn**: [linkedin.com/in/yourprofile](#)  
-- 🐦 **Twitter**: [twitter.com/yourhandle](#)  
+- 💼 **LinkedIn**: [linkedin.com/in/josephagbonifo](linkedin.com/in/josephagbonifo)  
+- 🐦 **Twitter**: [https://x.com/Agbonifo_?t=gqjTKYvthc3FOoOm836O6g&s=09](https://x.com/Agbonifo_?t=gqjTKYvthc3FOoOm836O6g&s=09)  
 - 📩 **Email**: your-email@example.com  
 - 🏢 **GitHub**: [github.com/yourprofile](#)  
 
