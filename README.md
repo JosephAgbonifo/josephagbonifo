@@ -35,7 +35,7 @@ Hey! I'm a passionate **frontend web developer** and an **industrial chemistry s
 - 🌍 **Website**: [Coming soon!]  
 - 💼 **LinkedIn**: [linkedin.com/in/josephagbonifo](linkedin.com/in/josephagbonifo)  
 - 🐦 **Twitter**: [https://x.com/Agbonifo_?t=gqjTKYvthc3FOoOm836O6g&s=09](https://x.com/Agbonifo_?t=gqjTKYvthc3FOoOm836O6g&s=09)  
-- 📩 **Email**: your-email@example.com  
-- 🏢 **GitHub**: [github.com/yourprofile](#)  
+- 📩 **Email**: [joesefair@gmail.com](mailto:joesefair@gmail.com)  
+- 🏢 **GitHub**: [github.com/josephagbonifo](github.com/josephagbonifo)  
 
 Thanks for stopping by! Happy coding! 🚀✨
