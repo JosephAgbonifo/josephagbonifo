@@ -21,7 +21,7 @@ Hey! I'm a passionate **frontend web developer** and an **industrial chemistry s
 - **[Peakify](https://github.com/JosephAgbonifo/Peakify)** – An educational platform for resource sharing and gamified learning 🏔️📚  
 - **[SYNTAX](https://github.com/JosephAgbonifo/Syntax-promotional-page)** – A fun way to learn programming with interactive tutorials 🖥️🎮  
 - **[De Emmaculate College Website](https://github.com/JosephAgbonifo/emmaculate-MERN)** – Revamping an academic website for better accessibility 🎓💡
-- **[Maxi Data](https://github.com/Maxi-data)** – Buy data, airtime and paybills from the comfort of your home 🖥️🛜📞 
+- **[Maxi Data](https://github.com/JosephAgbonifo/Maxi-data)** – Buy data, airtime and paybills from the comfort of your home 🖥️🛜📞 
 
 ## 🌱 Currently Learning
 - Advanced TypeScript ⚡  
