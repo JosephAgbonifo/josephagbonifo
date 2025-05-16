@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-Hey! I'm a passionate **frontend web developer** and an **industrial chemistry student** currently in my third year. I love building engaging and interactive web experiences. I have a strong background in **JavaScript, React, and Node.js**, and I’m always learning new things to improve my craft.  
+Hey! I'm a passionate **frontend web developer** and an **industrial chemistry student** currently in my final year. I love building engaging and interactive web experiences. I have a strong background in **JavaScript, React,Next.js and Node.js**, and I’m always learning new things to improve my craft.  
 
 🎯 My 2025 Watchword: **Thrive**  
 
@@ -27,10 +27,6 @@ Hey! I'm a passionate **frontend web developer** and an **industrial chemistry s
 - Advanced TypeScript ⚡  
 - Web3 & Blockchain 🔗  
 - AI & Machine Learning 🤖  
-
-## 🏆 Achievements
-- 🎖️ *Best Class Representative Award* (2023)  
-- 🏅 *Most Dedicated Staff* – Tunnex Laboratory Engineering  
 
 ## 📫 Connect with Me
 - 🌍 **Website**: [Coming soon!]  
