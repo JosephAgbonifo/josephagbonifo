@@ -29,7 +29,7 @@ Hey! I'm a passionate **frontend web developer** and an **industrial chemistry s
 - AI & Machine Learning 🤖  
 
 ## 📫 Connect with Me
-- 🌍 **Website**: [Coming soon!]  
+- 🌍 **Website**: [josephagbonifo.vercel.app](https://josephagbonifo.vercel.app) 
 - 💼 **LinkedIn**: [linkedin.com/in/josephagbonifo](linkedin.com/in/josephagbonifo)  
 - 🐦 **Twitter**: [https://x.com/Agbonifo_?t=gqjTKYvthc3FOoOm836O6g&s=09](https://x.com/Agbonifo_?t=gqjTKYvthc3FOoOm836O6g&s=09)  
 - 📩 **Email**: [joesefair@gmail.com](mailto:joesefair@gmail.com)  
