@@ -31,6 +31,8 @@ Strong in **JavaScript**, **React**, **Next.js**, and **Node.js**—but always l
 * 🖥️ **[SYNTAX](https://github.com/JosephAgbonifo/Syntax-promotional-page)** – Fun, interactive tech tutorials
 * 🎓 **[Emmaculate College Website](https://github.com/JosephAgbonifo/emmaculate-MERN)** – Making school web presence matter
 * 📡 **[Maxi Data](https://github.com/JosephAgbonifo/Maxi-data)** – Airtime, data, and bills made simple
+* 🧰 **[Codetainer](https://github.com/JosephAgbonifo/Codetainer)** – My open-source CLI tool for managing code snippets with smart tagging, search, and GitHub integration. Built for devs, by a dev. 🌍⚙️  
+
 
 ## 🌱 Currently Growing In
 
