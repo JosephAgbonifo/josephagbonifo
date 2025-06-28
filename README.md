@@ -1,38 +1,48 @@
-# Hi there! 👋 Welcome to my GitHub
+# 👋 Welcome to My GitHub!
 
-✨ Crafting the web, one line of code at a time! 🚀
+✨ *Crafting the web, one line of code at a time.* 🚀
 
 ## 🚀 About Me
 
-Hey! I'm a passionate **frontend web developer** and an **industrial chemistry student** currently in my final year. I love building engaging and interactive web experiences. I have a strong background in **JavaScript, React,Next.js and Node.js**, and I’m always learning new things to improve my craft.  
+Hey there! I’m **Joseph**, a frontend-focused **web developer** and **final-year Industrial Chemistry student**. I’m passionate about building sleek, interactive web experiences that actually *work*.
 
-🎯 My 2025 Watchword: **Thrive**  
+Strong in **JavaScript**, **React**, **Next.js**, and **Node.js**—but always learning, always shipping.
+
+🎯 **2025 Watchword:** *Thrive*
 
 ## 🌟 What I Do
-- I leverage my skills to create user-friendly web applications, optimize site performance, and contribute to open-source projects that impact real-world users.  
-- 💻 **Frontend Development** – React, Tailwind CSS, JavaScript, Next.js  
-- ⚙️ **Backend** – Node.js, Express.js  
-- 🗄️ **Database** – PostgreSQL  
-- 🎮 **Gamification & EdTech Enthusiast**  
-- 🚀 **SEO & Performance Optimization**  
-- 🔥 **Open Source Contributor**  
 
-## 📌 Projects I'm Working On
-- **[Peakify](https://github.com/JosephAgbonifo/Peakify)** – An educational platform for resource sharing and gamified learning 🏔️📚  
-- **[SYNTAX](https://github.com/JosephAgbonifo/Syntax-promotional-page)** – A fun way to learn programming with interactive tutorials 🖥️🎮  
-- **[De Emmaculate College Website](https://github.com/JosephAgbonifo/emmaculate-MERN)** – Revamping an academic website for better accessibility 🎓💡
-- **[Maxi Data](https://github.com/JosephAgbonifo/Maxi-data)** – Buy data, airtime and paybills from the comfort of your home 🖥️🛜📞 
+* 🔧 Build responsive and performant web apps
+* 🎨 Craft UI/UX that keeps users engaged
+* ⚡ Optimize for speed and SEO
+* 🤝 Contribute to open source & dev communities
+* 🎮 Explore gamification in EdTech
 
-## 🌱 Currently Learning
-- Advanced TypeScript ⚡  
-- Web3 & Blockchain 🔗  
-- AI & Machine Learning 🤖  
+### 💻 Tech Stack
 
-## 📫 Connect with Me
-- 🌍 **Website**: [josephagbonifo.vercel.app](https://josephagbonifo.vercel.app) 
-- 💼 **LinkedIn**: [linkedin.com/in/josephagbonifo](linkedin.com/in/josephagbonifo)  
-- 🐦 **Twitter**: [https://x.com/Agbonifo_?t=gqjTKYvthc3FOoOm836O6g&s=09](https://x.com/Agbonifo_?t=gqjTKYvthc3FOoOm836O6g&s=09)  
-- 📩 **Email**: [joesefair@gmail.com](mailto:joesefair@gmail.com)  
-- 🏢 **GitHub**: [github.com/josephagbonifo](github.com/josephagbonifo)  
+* **Frontend**: React, Next.js, JavaScript, Tailwind CSS
+* **Backend**: Node.js, Express
+* **Database**: PostgreSQL
+* **Extras**: Git, Vercel, Netlify, SEO, Open Source
 
-Thanks for stopping by! Happy coding! 🚀✨
+## 🔧 Projects I'm Building
+
+* 🏔️ **[Peakify](https://github.com/JosephAgbonifo/Peakify)** – Gamified platform for learning and collaboration
+* 🖥️ **[SYNTAX](https://github.com/JosephAgbonifo/Syntax-promotional-page)** – Fun, interactive tech tutorials
+* 🎓 **[Emmaculate College Website](https://github.com/JosephAgbonifo/emmaculate-MERN)** – Making school web presence matter
+* 📡 **[Maxi Data](https://github.com/JosephAgbonifo/Maxi-data)** – Airtime, data, and bills made simple
+
+## 🌱 Currently Growing In
+
+* 🟦 Advanced **TypeScript**
+* 🔗 **Web3** + **Blockchain Dev**
+* 🤖 **AI/Machine Learning** for web apps
+* 🐳 Docker, Supabase, Solidity
+
+## 📫 Let’s Connect
+
+* 🌍 **Portfolio**: [josephagbonifo.vercel.app](https://josephagbonifo.vercel.app)
+* 💼 **LinkedIn**: [linkedin.com/in/josephagbonifo](https://linkedin.com/in/josephagbonifo)
+* 🐦 **Twitter/X**: [@Hellojoedev](https://x.com/hellojoedev)
+* 📩 **Email**: [joesefair@gmail.com](mailto:joesefair@gmail.com)
+* 🧑‍💻 **GitHub**: [github.com/josephagbonifo](https://github.com/josephagbonifo)
