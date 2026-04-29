@@ -8,7 +8,7 @@ Hey there! I’m **Joseph**, a frontend-focused **web developer** and **final-ye
 
 Strong in **JavaScript**, **React**, **Next.js**, and **Node.js**—but always learning, always shipping.
 
-🎯 **2025 Watchword:** *Thrive*
+🎯 **2026 Watchword:** *Thrive*
 
 ## 🌟 What I Do
 
