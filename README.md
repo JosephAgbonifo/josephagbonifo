@@ -1,47 +1,50 @@
-# 👋 Welcome to My GitHub!
+# 👋 Hey, I'm Joe!
 
-✨ *Crafting the web, one line of code at a time.* 🚀
+✨ *Building the web, and the privacy layer beneath it.* 🚀
 
 ## 🚀 About Me
 
-Hey there! I’m **Joseph**, a frontend-focused **web developer** and **final-year Industrial Chemistry student**. I’m passionate about building sleek, interactive web experiences that actually *work*.
+I'm **Joseph Agbonifo** (Joe), a **Senior Frontend Engineer** and **fullstack JavaScript + Web3 developer** based in Lagos, Nigeria. I've been shipping code for 4+ years.
 
-Strong in **JavaScript**, **React**, **Next.js**, and **Node.js**—but always learning, always shipping.
+These days I split my time between privacy-preserving smart contracts, and growing developer communities across Africa.
 
 🎯 **2026 Watchword:** *Thrive*
 
-## 🌟 What I Do
+## 💼 What I'm Up To
 
-* 🔧 Build responsive and performant web apps
-* 🎨 Craft UI/UX that keeps users engaged
-* ⚡ Optimize for speed and SEO
-* 🤝 Contribute to open source & dev communities
-* 🎮 Explore gamification in EdTech
+* 🧑‍💻 Senior Frontend Engineer @ **Vertexone Holdings** (remote)
+* 🌍 Administrator @ **Labora**, connecting emerging African talent with recruiters
+* 🔗 Lead Dev @ **XRPL Africa**
+* 🎓 Co-Dev Lead @ **Blockchain UNIBEN**
+* 🔐 Building with **Fhenix CoFHE** (fully homomorphic encryption for smart contracts)
+* ✍️ Writing about privacy, security, AI, and tech culture on [Substack](https://hellojoedev.substack.com)
 
-### 💻 Tech Stack
+## 💻 Tech Stack
 
-* **Frontend**: React, Next.js, JavaScript, Tailwind CSS
-* **Backend**: Node.js, Express
-* **Database**: PostgreSQL
-* **Extras**: Git, Vercel, Netlify, SEO, Open Source
+* **Frontend**: React, Next.js, TypeScript, JavaScript, Tailwind CSS
+* **Backend**: Node.js, Express, Laravel, Python, Rust
+* **Database**: PostgreSQL, MySQL
+* **Web3**: Solidity, Fhenix CoFHE, XRPL.js
+* **Extras**: Git, Vercel, Netlify, n8n, SEO, Open Source
 
-## 🔧 Projects I'm Building
+## 🔧 Projects
 
-* 🏔️ **[Peakify](https://github.com/JosephAgbonifo/Peakify)** – Gamified platform for learning and collaboration
-* 🖥️ **[SYNTAX](https://github.com/JosephAgbonifo/Syntax-promotional-page)** – Fun, interactive tech tutorials
-* 🎓 **[Emmaculate College Website](https://github.com/JosephAgbonifo/emmaculate-MERN)** – Making school web presence matter
-* 📡 **[Maxi Data](https://github.com/JosephAgbonifo/Maxi-data)** – Airtime, data, and bills made simple
-* 🧰 **[Codetainer](https://github.com/JosephAgbonifo/Codetainer)** – My open-source CLI tool for managing code snippets with smart tagging, search, and GitHub integration. Built for devs, by a dev. 🌍⚙️  
-
+* 🔐 **[Cipherank](#)**: Encrypted wallet reputation scoring with Fhenix CoFHE
+* 🏛️ **[Vaultis](#)**: Private DAO treasury governance
+* 🛡️ **[Priv-Insured](#)**: Encrypted insurance pool dApp
+* 🪂 **[Private Airdrop](#)**: Confidential airdrop eligibility and claims
+* 🕸️ **[FileMesh](https://github.com/JosephAgbonifo/Filemesh)**: Peer-to-peer file-sharing CLI written in Rust on libp2p
+* 📚 **[Eudaro](#)**: Remote co-studying PWA (formerly Quirklr)
+* 🌱 **[Sprout](#)**: Reading accountability PWA
+* 🧰 **[Codetainer](https://github.com/JosephAgbonifo/Codetainer)**: Open-source CLI for managing code snippets with smart tagging and search
 
 ## 🌱 Currently Growing In
 
+* 🔗 Advanced **FHE / CoFHE** and Solidity
+* 🤖 **AI** and automation for web apps
 * 🟦 Advanced **TypeScript**
-* 🔗 **Web3** + **Blockchain Dev**
-* 🤖 **AI/Machine Learning** for web apps
-* 🐳 Docker, Supabase, Solidity
 
-## 📫 Let’s Connect
+## 📫 Let's Connect
 
 * 🌍 **Portfolio**: [josephagbonifo.vercel.app](https://josephagbonifo.vercel.app)
 * 💼 **LinkedIn**: [linkedin.com/in/josephagbonifo](https://linkedin.com/in/josephagbonifo)
