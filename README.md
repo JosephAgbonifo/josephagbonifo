@@ -29,13 +29,9 @@ These days I split my time between privacy-preserving smart contracts, and growi
 
 ## 🔧 Projects
 
-* 🔐 **[Cipherank](#)**: Encrypted wallet reputation scoring with Fhenix CoFHE
-* 🏛️ **[Vaultis](#)**: Private DAO treasury governance
-* 🛡️ **[Priv-Insured](#)**: Encrypted insurance pool dApp
-* 🪂 **[Private Airdrop](#)**: Confidential airdrop eligibility and claims
+* 🏛️ **[Vaultis](https://github.com/JosephAgbonifo/vaultis)**: Private DAO treasury governance
 * 🕸️ **[FileMesh](https://github.com/JosephAgbonifo/Filemesh)**: Peer-to-peer file-sharing CLI written in Rust on libp2p
 * 📚 **[Eudaro](#)**: Remote co-studying PWA (formerly Quirklr)
-* 🌱 **[Sprout](#)**: Reading accountability PWA
 * 🧰 **[Codetainer](https://github.com/JosephAgbonifo/Codetainer)**: Open-source CLI for managing code snippets with smart tagging and search
 
 ## 🌱 Currently Growing In
